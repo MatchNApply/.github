@@ -13,25 +13,6 @@ We're developing innovative solutions to help:
 - **Recruiters**: Identify the right candidates more efficiently
 - **Organizations**: Streamline their hiring processes
 
-## 📦 Current Repositories
-
-### [.github](https://github.com/MatchNApply/.github)
-Organization-wide configurations, templates, and documentation that define our community standards and development practices.
-
-## 🌟 Getting Started
-
-We're just getting started! This organization is in its early stages, and we're actively building out our platform. Stay tuned for exciting developments.
-
-### For Contributors
-
-Interested in contributing? We welcome collaboration from developers, designers, and anyone passionate about improving the job search experience. 
-
-As we grow, we'll be adding:
-- 📋 Contribution guidelines
-- 🔧 Development setup instructions
-- 📖 Comprehensive documentation
-- 🤝 Community engagement channels
-
 ## 🔮 Future Vision
 
 We envision a future where:
@@ -40,9 +21,7 @@ We envision a future where:
 - Candidates and employers can connect more meaningfully
 - The entire hiring ecosystem becomes more efficient and equitable
 
-## 📬 Connect With Us
-
-Follow our repositories to stay updated on our latest developments and join us in revolutionizing the job application experience!
+## 📬 Connect With Us at support@matchnapply.ai
 
 ---
 
